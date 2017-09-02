@@ -10,6 +10,6 @@ Workshop
 * [Bondevalue API](https://console.bluemix.net/catalog/services/bondevalue-api)
 * [Payeezy](https://console.bluemix.net/catalog/services/payeezy)
 * [Plaid](https://console.bluemix.net/catalog/services/plaid)
-* [Quovohttps](https://console.bluemix.net/catalog/services/quovo)
+* [Quovo](https://console.bluemix.net/catalog/services/quovo)
 * [RiskSpan RS Edge Loan Analytics](https://console.bluemix.net/catalog/services/riskspan-rs-edge-loan-analytics)
 * [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
