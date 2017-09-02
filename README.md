@@ -20,6 +20,6 @@ Workshop
 * [Instrument Analytics](https://console.bluemix.net/catalog/services/instrument-analytics)
 * [Investment Portfolio](https://console.bluemix.net/catalog/services/investment-portfolio)
 * [Portfolio Organization](https://console.bluemix.net/catalog/services/portfolio-optimization)
-* [Predictive Market Scenarios(https://console.bluemix.net/catalog/services/predictive-market-scenarios)
+* [Predictive Market Scenarios](https://console.bluemix.net/catalog/services/predictive-market-scenarios)
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
