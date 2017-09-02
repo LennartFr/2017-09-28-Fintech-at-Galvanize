@@ -25,8 +25,8 @@ Workshop
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
 ## IBM Developer Journeys
-* [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
-* [Build a web app that performs a stress test on an investment portfolio using financial services
+* First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
+* Second Lab: [Build a web app that performs a stress test on an investment portfolio using financial services
 ](https://developer.ibm.com/code/journey/create-a-stress-test-app-for-investment-portfolios/)
 * [Utilize retail banking APIs to drive fast, agile innovation with mainframe hybrid cloud architecture](https://developer.ibm.com/code/journey/create-financial-applications-using-apis-on-mainframe/)
 * [Accurately assess financial risk levels using machine learning on a mainframe](https://developer.ibm.com/code/journey/apply-machine-learning-to-financial-risk-management/)
