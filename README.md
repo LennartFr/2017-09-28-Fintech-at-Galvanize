@@ -24,7 +24,7 @@ Workshop
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
-## 
+## Risk Managament 
 
 * [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
 
