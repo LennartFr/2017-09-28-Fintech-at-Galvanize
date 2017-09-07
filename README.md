@@ -24,6 +24,11 @@ Workshop
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
+## 
+
+* [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
+
+
 ## IBM Developer Journeys
 * First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 * Second Lab: [Build a web app that performs a stress test on an investment portfolio using financial services
