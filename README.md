@@ -43,7 +43,7 @@ Workshop
 
 ## IBM Developer Journeys
 * First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
-* [Lab Code:](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
+* [Workshop Code:](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
 * Second Lab: [Build a web app that performs a stress test on an investment portfolio using financial services
 ](https://developer.ibm.com/code/journey/create-a-stress-test-app-for-investment-portfolios/)
 * Third Lab: [Aggregate and onboard investment holdings using Quovo Aggregation API, IBM Data Science Experience, and the Bluemix Investment Portfolio service](https://developer.ibm.com/code/journey/integrate-a-financial-investment-portfolio/)
