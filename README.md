@@ -8,7 +8,7 @@ Workshop
 
 # Agenda
 ~~~
-6:00 Sign-in, mingle, food, welcome. Intro of Tom  Eck, IBM CTO Industry Platforms
+6:00 Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
 6:20: Tom Eck: Introduction to the IBM fintech space: Tom will show the finance services we have    
           on Bluemix, both the IBM experimental services and also the Business Partner 
           services, and mention some use cases.   
