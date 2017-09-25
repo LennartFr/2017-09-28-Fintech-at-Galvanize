@@ -6,6 +6,7 @@ Workshop
 
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
+# Agenda
 ~~~
 6:00 Sign-in, mingle, food, welcome. Intro of Tom  Eck, IBM CTO Industry Platforms
 6:20: Tom Eck: Introduction to the IBM fintech space: Tom will show the finance services we have    
