@@ -1,3 +1,6 @@
+
+<img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
+
 # 2017-09-28-Fintech-at-Galvanize
 Workshop
 
