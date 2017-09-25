@@ -11,7 +11,7 @@ Workshop
 6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
 6:20: Tom Eck: Introduction to the finance services on Bluemix: 
        the IBM experimental services and the Business Partner services, as well as some use cases.   
-6:40: Lennart: intro of the Fintech developer journey. 
+6:40: Lennart: Introduction of the Fintech developer journey. 
 6:45: Coding starts. 
 8:00: Coding ends.Q/A with Tom and the IBM team.  
       Algorithmics Q/A
