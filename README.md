@@ -7,8 +7,8 @@ Workshop
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
 ~~~
-6:00 Sign-in, mingle, food, welcome. Intro of Tom  Eck, IBM finance executive
-6:20: Tom Eck,CTO Industry Platforms : Introduction to the IBM fintech space: Tom will show the finance services we have    
+6:00 Sign-in, mingle, food, welcome. Intro of Tom  Eck, IBM CTO Industry Platforms
+6:20: Tom Eck: Introduction to the IBM fintech space: Tom will show the finance services we have    
           on Bluemix, both the IBM experimental services and also the Business Partner 
           services, and mention some use cases.   
 6:40: Lennart: intro of the Fintech developer journey. 
