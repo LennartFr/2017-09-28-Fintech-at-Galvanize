@@ -14,9 +14,6 @@ Workshop
 6:20: Tom Eck: Introduction to the finance services in the IBM Cloud: 
        the IBM experimental services and the Business Partner services, as well as some use cases.   
 6:40: Lennart: Introduction of the lab (Developer Journey). 
-~~~
-      First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create- an-investment-management-chatbot/)
-~~~
 6:45: Coding starts. 
 8:00: Coding ends.Q/A with Tom and the IBM team.  
       Algorithmics Q/A
