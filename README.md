@@ -19,12 +19,12 @@ Workshop
       Algorithmics Q/A
 8:30: Event ends   
 ~~~
+First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
 ## Fintech and Data Analytics, what's it all about?
 * Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
 * [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
 * Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
-
 
 ## Financial apps from IBM Business Partners in the IBM Cloud Catalog
 
