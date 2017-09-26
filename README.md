@@ -20,12 +20,6 @@ Workshop
 8:30: Event ends   
 ~~~
 
-## Fintech and Data Analytics
-* Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
-* [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
-* Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
-
-
 ## Financial apps from IBM Business Partners in the IBM Cloud Catalog
 
 * [Accern-API](https://console.bluemix.net/catalog/services/accern-api)
@@ -49,6 +43,11 @@ Workshop
 ## Risk Managament 
 
 * [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
+
+## Fintech and Data Analytics
+* Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
+* [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
+* Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
 
 
 ## IBM Developer Journeys
