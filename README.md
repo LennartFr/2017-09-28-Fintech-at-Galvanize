@@ -21,7 +21,7 @@ Workshop
 ~~~
 
 
-## Financial apps in the IBM Cloud Catalog
+## Financial apps from IBM Business Partners in the IBM Cloud Catalog
 
 * [Accern-API](https://console.bluemix.net/catalog/services/accern-api)
 * [Bondevalue API](https://console.bluemix.net/catalog/services/bondevalue-api)
@@ -31,7 +31,7 @@ Workshop
 * [RiskSpan RS Edge Loan Analytics](https://console.bluemix.net/catalog/services/riskspan-rs-edge-loan-analytics)
 * [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
 
-## Bluemix Experimental Financial Services
+## IBM Experimental Financial Services in the IBM Cloud Catalog
 
 * [Historical Instrument Analytics](https://console.bluemix.net/catalog/services/historical-instrument-analytics)
 * [Instrument Analytics](https://console.bluemix.net/catalog/services/instrument-analytics)
