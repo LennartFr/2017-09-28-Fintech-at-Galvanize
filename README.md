@@ -23,6 +23,7 @@ Workshop
 ## Fintech and Data Analytics
 * Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
 * [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
+* Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
 
 
 ## Financial apps from IBM Business Partners in the IBM Cloud Catalog
