@@ -23,12 +23,9 @@
 
 First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
-## Fintech and Data Analytics, what's it all about?
-* Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
-* [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
-* Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
-
 ## Financial apps from IBM Business Partners in the IBM Cloud Catalog
+
+<img src="https://farm5.staticflickr.com/4409/37328006152_4e409c3b7e_z.jpg" width="640" height="342" alt="Screen Shot 2017-09-27 at 12.46.12">
 
 * [Accern-API](https://console.bluemix.net/catalog/services/accern-api)
 * [Bondevalue API](https://console.bluemix.net/catalog/services/bondevalue-api)
@@ -47,6 +44,11 @@ First lab: [Create a service-based chatbot to manage a personal wealth portfolio
 * [Predictive Market Scenarios](https://console.bluemix.net/catalog/services/predictive-market-scenarios)
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
+
+## Fintech and Data Analytics, what's it all about?
+* Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
+* [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
+* Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
 
 ## Risk Managament 
 
