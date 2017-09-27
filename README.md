@@ -19,6 +19,9 @@ Workshop
       Algorithmics Q/A
 8:30: Event ends   
 ~~~
+
+[Sign up for the IBM Cloud at no cost](https://bluemix.net) 
+
 First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
 ## Fintech and Data Analytics, what's it all about?
