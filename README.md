@@ -2,8 +2,7 @@
 <img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
 # Learn How to Build FinTech Applications that Use Watson AI
-
-# URL: [http://bit.ly/2wRZdWt](http://bit.ly/2wRZdWt)
+## URL: [http://bit.ly/2wRZdWt](http://bit.ly/2wRZdWt)
 
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
@@ -48,7 +47,7 @@ First lab: [Create a service-based chatbot to manage a personal wealth portfolio
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
-## Fintech and Data Analytics, what's it all about?
+# Fintech and Data Analytics, what's it all about?
 * Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
 * [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
 * Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
@@ -57,7 +56,7 @@ First lab: [Create a service-based chatbot to manage a personal wealth portfolio
 
 * [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
 
-## Workshop using the IBM Developer Journeys
+# Workshop using the IBM Developer Journeys
 * First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
 * [First Lab Code: **http://bit.ly/2fU0Gpg**](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
