@@ -36,7 +36,7 @@
 * [Plaid](https://console.bluemix.net/catalog/services/plaid)
 * [Quovo](https://console.bluemix.net/catalog/services/quovo)
 * [RiskSpan RS Edge Loan Analytics](https://console.bluemix.net/catalog/services/riskspan-rs-edge-loan-analytics)
-* [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
+* Can be used with first lab: [Xignite Market Data APIs](https://console.bluemix.net/catalog/services/xignite-market-data-apis)
 * [WealthEngine API](https://console.bluemix.net/catalog/services/wealthengine-api)
 
 ## IBM Experimental Financial Services in the IBM Cloud Catalog
