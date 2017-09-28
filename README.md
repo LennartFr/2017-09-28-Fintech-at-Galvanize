@@ -55,9 +55,9 @@
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
 # Workshop using the IBM Developer Journeys
-* First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
+* First lab documentation: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
-* [First Lab Code: **http://bit.ly/2fU0Gpg**](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
+* [First Lab Code, click here: **http://bit.ly/2fU0Gpg**](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
 
 * Second Lab: [Build a web app that performs a stress test on an investment portfolio using financial services
 ](https://developer.ibm.com/code/journey/create-a-stress-test-app-for-investment-portfolios/)
