@@ -18,9 +18,16 @@
 8:30: Event ends   
 ~~~
 
-[Sign up for the IBM Cloud at no cost](https://bluemix.net) 
+[*Sign up for the IBM Cloud at no cost*](https://bluemix.net) 
 
-First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
+# Fintech and Data Analytics, what's it all about?
+* Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
+* [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
+* Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
+
+## Risk Managament 
+
+* [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
 
 ## Financial apps from IBM Business Partners in the IBM Cloud Catalog
 
@@ -46,15 +53,6 @@ First lab: [Create a service-based chatbot to manage a personal wealth portfolio
 * [Predictive Market Scenarios](https://console.bluemix.net/catalog/services/predictive-market-scenarios)
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
 * [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
-
-# Fintech and Data Analytics, what's it all about?
-* Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
-* [Announcing the Predictive Market Scenarios experimental service](https://www.ibm.com/blogs/bluemix/2017/05/announcing-predictive-market-scenarios-experimental-service/)
-* Demo: [Predictive Market Stress Testing  ](https://predictive-market-stress-testing.mybluemix.net/)
-
-## Risk Managament 
-
-* [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
 
 # Workshop using the IBM Developer Journeys
 * First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
