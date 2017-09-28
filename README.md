@@ -60,7 +60,7 @@ First lab: [Create a service-based chatbot to manage a personal wealth portfolio
 ## IBM Developer Journeys
 * First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
-** [Workshop Code: http://bit.ly/2fU0Gpg](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
+* [Workshop Code: **http://bit.ly/2fU0Gpg**](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
 
 * Second Lab: [Build a web app that performs a stress test on an investment portfolio using financial services
 ](https://developer.ibm.com/code/journey/create-a-stress-test-app-for-investment-portfolios/)
