@@ -6,6 +6,8 @@
 
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
+[*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
+
 # Agenda
 ~~~
 6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
@@ -16,9 +18,7 @@
 8:00: Coding ends.Q/A with Tom and the IBM team.  
       Algorithmics Q/A
 8:30: Event ends   
-~~~
-
-[*Sign up for the IBM Cloud at no cost*](https://bluemix.net) 
+~~~ 
 
 # Fintech and Data Analytics, what's it all about?
 * Demo: [Investment Insights for Asset Managers](https://investment-insights-am.mybluemix.net/)
