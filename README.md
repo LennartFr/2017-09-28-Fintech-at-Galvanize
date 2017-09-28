@@ -49,7 +49,7 @@
 * [Portfolio Organization](https://console.bluemix.net/catalog/services/portfolio-optimization)
 * [Predictive Market Scenarios](https://console.bluemix.net/catalog/services/predictive-market-scenarios)
 * [Simulated Historical Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-historical-instrument-analytics)
-* [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
+* Used in first lab: [Simulated Instrumental Analytics](https://console.bluemix.net/catalog/services/simulated-instrument-analytics)
 
 # Workshop using the IBM Developer Journeys
 * First lab documentation: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
