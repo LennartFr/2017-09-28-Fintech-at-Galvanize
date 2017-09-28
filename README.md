@@ -57,7 +57,7 @@ First lab: [Create a service-based chatbot to manage a personal wealth portfolio
 
 * [Risk Management. Make risk-aware decisions and meet regulatory compliance demands through smarter risk management.](https://www.ibm.com/analytics/us/en/business/risk-management/)
 
-## IBM Developer Journeys
+## Workshop using the IBM Developer Journeys
 * First lab: [Create a service-based chatbot to manage a personal wealth portfolio](https://developer.ibm.com/code/journey/create-an-investment-management-chatbot/)
 
 * [First Lab Code: **http://bit.ly/2fU0Gpg**](https://github.com/LennartFr/personal-wealth-portfolio-mgt-bot/blob/master/README.md)
