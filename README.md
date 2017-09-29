@@ -9,6 +9,8 @@
 ## Wifi at Galavanize
 SSID/pass = g|Events / machinelearning
 
+Lennart alf@us.ibm.com
+
 ## [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
 
 # Agenda
