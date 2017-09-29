@@ -12,7 +12,8 @@
 ~~~
 6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
 6:20: Tom Eck: Introduction to the finance services in the IBM Cloud: 
-       the IBM experimental services and the Business Partner services, as well as some use cases.   
+       the IBM experimental services and the Business Partner services, as well as some use cases. 
+       Alvin Cho Architect for Watson Fintech Hub.  
 6:40: Lennart: Introduction of the lab (Developer Journey). 
 6:45: Coding starts. 
 8:00: Coding ends.Q/A with Tom and the IBM team.  
