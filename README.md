@@ -67,3 +67,8 @@ Lennart alf@us.ibm.com
 * Third Lab: [Aggregate and onboard investment holdings using Quovo Aggregation API, IBM Data Science Experience, and the Bluemix Investment Portfolio service](https://developer.ibm.com/code/journey/integrate-a-financial-investment-portfolio/)
 * [Utilize retail banking APIs to drive fast, agile innovation with mainframe hybrid cloud architecture](https://developer.ibm.com/code/journey/create-financial-applications-using-apis-on-mainframe/)
 * [Accurately assess financial risk levels using machine learning on a mainframe](https://developer.ibm.com/code/journey/apply-machine-learning-to-financial-risk-management/)
+
+# Wrap-up, where do we go from here?
+* [Aditional Developer Journeys](https://developer.ibm.com/code/journey/) 
+* [IBM Fintech](https://www.ibm.com/us-en/marketplace/learning-lab/fintech)
+* Upcoming events
